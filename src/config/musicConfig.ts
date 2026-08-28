@@ -50,7 +50,14 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 			{
 				name: "最佳损友",
 				artist: "陈奕迅 / blues / Eason",
-				url: "/assets/music/最佳损友 - 陈奕迅.mp3",
+				url: "/assets/music/最佳损友.mp3",
+				cover: "/assets/music/cover/109951169585655912.webp",
+				lrc: "",
+			},
+			{
+				name: "美人鱼",
+				artist: "林俊杰 / blues ",
+				url: "/assets/music/美人鱼.mp3",
 				cover: "/assets/music/cover/109951169585655912.webp",
 				lrc: "",
 			},
