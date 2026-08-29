@@ -3,11 +3,10 @@ title: Quinn的自我介绍
 published: 2026-08-29
 pinned: true
 description: 这是属于Quinn的个人网站，模板由Github上的大佬提供，非本人制作
-tags: [Markdown, Firefly, 博客, 主题, 介绍]
+tags: [Markdown, Firefly, 博客,  介绍]
 category: 文章示例
-image: ./images/firefly2.avif
+image: ./images/wolf.jpg
 slug: firefly
-seriesOrder: 4
 ---
 ## 🌟 个人简介
   在这里不方便透露姓名，**Quinn**这个名字是我查资料时发现的，名字含义和字母挺适合我，故选择Quinn
