@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "personal blog",
 
 	// 站点 URL
-	site_url: "https://quinn.qd.je",
+	site_url: "https://quinnc.de5.net",
 
 	// 站点描述
 	description:
@@ -66,7 +66,7 @@ export const siteConfig: SiteConfig = {
 	// 主题色
 	themeColor: {
 		// 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
-		hue: 165,
+		hue: 250,
 		// 默认模式："light" 亮色，"dark" 暗色，"system" 跟随系统
 		defaultMode: "system",
 	},

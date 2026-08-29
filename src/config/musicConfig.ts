@@ -76,7 +76,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				lrc: "",
 			},
 			{
-				name: "最佳损友",
+				name: "雨爱",
 				artist: "杨丞琳 / blues ",
 				url: "/assets/music/雨爱 - 杨丞琳.mp3",
 				cover: "/assets/music/cover/109951169585655912.webp",

@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "",
 
 	// 公告内容
-	content: "欢迎来到我的博客！这是一则示例公告。",
+	content: "欢迎来到Quinn的博客！祝大家生活愉快呀！",
 
 	// 是否允许用户关闭公告
 	closable: true,
