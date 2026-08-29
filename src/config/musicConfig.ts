@@ -61,6 +61,27 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				cover: "/assets/music/cover/109951169585655912.webp",
 				lrc: "",
 			},
+			{
+				name: "富士山下",
+				artist: "陈奕迅 / blues / Eason",
+				url: "/assets/music/富士山下 - 陈奕迅.mp3",
+				cover: "/assets/music/cover/109951169585655912.webp",
+				lrc: "",
+			},
+			{
+				name: "葡萄成熟时",
+				artist: "陈奕迅 / blues / Eason",
+				url: "/assets/music/葡萄成熟时 - 陈奕迅.mp3",
+				cover: "/assets/music/cover/109951169585655912.webp",
+				lrc: "",
+			},
+			{
+				name: "最佳损友",
+				artist: "杨丞琳 / blues ",
+				url: "/assets/music/雨爱 - 杨丞琳.mp3",
+				cover: "/assets/music/cover/109951169585655912.webp",
+				lrc: "",
+			},
 		],
 	},
 };
