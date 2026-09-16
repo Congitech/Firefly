@@ -3,6 +3,18 @@
 
 <div align="center">
 
+## 👋 Hi, I'm Quinn_C
+
+[这里写一句自我介绍，例如：折腾 Web 与逆向的在校学生 / ACGN 爱好者]
+
+📝 **博客**：https://quinnc.de5.net/
+　　Astro + Fuwari 搭建的个人站，记录技术笔记、折腾日常和随手拍。
+
+🛠 博客技术栈：Astro · TypeScript · Tailwind CSS · Cloudflare Pages
+🔗 主题开源：https://github.com/Congitech/Firefly
+
+[![博客](https://quinnc.de5.net/favicon/firefly-32.png)](https://quinnc.de5.net/)
+
 # 流萤 / Firefly 
 > 一款清新美观的 Astro 静态博客主题模板
 > 
