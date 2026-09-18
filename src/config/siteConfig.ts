@@ -40,7 +40,7 @@ const pages = resolvePageToggles({
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Quinn_C",
+	title: "QuinC",
 
 	// 站点副标题
 	subtitle: "",
@@ -50,11 +50,11 @@ export const siteConfig: SiteConfig = {
 
 	// 站点描述
 	description:
-		"Welcome to Quinn_C's blog",
+		"Welcome to QuinC's blog",
 
 	// 站点关键词
 	keywords: [
-		"Quinn_C",
+		"QuinC",
 		"Fuwari",
 		"Astro",
 		"ACGN",
@@ -115,7 +115,7 @@ export const siteConfig: SiteConfig = {
 			alt: "🍀",
 		},
 		// 导航栏标题
-		title: "Quinn_C",
+		title: "QuinC",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中

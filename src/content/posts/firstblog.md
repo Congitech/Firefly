@@ -1,8 +1,8 @@
 ---
-title: Quinn的自我介绍
+title: QuinC的自我介绍
 published: 2026-08-29
 pinned: true
-description: 这是Quinn的第一个博客，博客模板来源于Github大佬
+description: 这是QuinC的第一个博客，博客模板来源于Github大佬
 image: ./images/wolf.jpg
 tags: [Markdown, 博客,介绍]
 category: 文章示例
@@ -10,7 +10,7 @@ draft: false
 ---
 
 ## 🌟 个人简介
-在这里不方便透露姓名，**Quinn**这个名字是我查资料时发现的，名字含义和字母挺适合我，故选择Quinn
+在这里不方便透露姓名，**QuinC**这个名字是我查资料时发现的，名字含义和字母挺适合我，故选择QuinC
 本人在**广东外语外贸大学**就读**人工智能**专业(2026入学)
 我爱好**编程**  但平时比较懒，缺乏项目经验
 我平时也喜欢打打二游，比如**崩铁，原神**...3A大作有时间也会玩
