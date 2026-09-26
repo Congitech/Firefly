@@ -45,6 +45,12 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			"assets/images/DesktopWallpaper/d4.avif",
 			"assets/images/DesktopWallpaper/d5.avif",
 			"assets/images/DesktopWallpaper/d6.avif",
+			"assets/images/DesktopWallpaper/s1.png",
+			"assets/images/DesktopWallpaper/s2.jpeg",
+			"assets/images/DesktopWallpaper/s3.png",
+			"assets/images/DesktopWallpaper/s4.jpeg",
+			"assets/images/DesktopWallpaper/s5.jpeg",
+			"assets/images/DesktopWallpaper/s6.jpeg",
 		],
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
@@ -55,6 +61,12 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			"assets/images/MobileWallpaper/m4.avif",
 			"assets/images/MobileWallpaper/m5.avif",
 			"assets/images/MobileWallpaper/m6.avif",
+			"assets/images/DesktopWallpaper/s1.png",
+			"assets/images/DesktopWallpaper/s2.jpeg",
+			"assets/images/DesktopWallpaper/s3.png",
+			"assets/images/DesktopWallpaper/s4.jpeg",
+			"assets/images/DesktopWallpaper/s5.jpeg",
+			"assets/images/DesktopWallpaper/s6.jpeg",
 		],
 		// 背景视频播放地址
 		// 支持单个视频路径（字符串）或多个视频循环（数组，参考上面壁纸配置）
@@ -73,7 +85,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否启用主页横幅文字
 			enable: true,
 			// 主页横幅主标题
-			title: "Welcome to Quinn's blog !",
+			title: "Welcome to QuinC's blog !",
 			// 主页横幅主标题字体大小
 			titleSize: "4.5rem",
 			// 主页横幅副标题

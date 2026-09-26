@@ -24,7 +24,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "qq",
 			icon: "fa7-brands:qq",
-			url: "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEaCGNqkQn7nmTC9Rat54O124pnJZ8KHAACeSQAAqm5iVSytfD3M1dxAT0E.jpg",
+			url: "https://img.remit.ee/i/YRuOxfKrksYu",
 			showName: false,
 		},
 		{
