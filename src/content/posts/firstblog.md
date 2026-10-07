@@ -5,7 +5,7 @@ pinned: true
 description: 这是QuinC的第一个博客，博客模板来源于Github大佬
 image: ./images/wolf.jpg
 tags: [Markdown, 博客,介绍]
-category: 文章示例
+category: blog维护
 draft: false
 ---
 

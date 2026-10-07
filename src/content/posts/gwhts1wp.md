@@ -5,7 +5,7 @@ pinned: false
 description: 解开所有谜题，却解不散落幕的怅然。
 image: ./images/s3.png
 tags: [Markdown, 博客,ctf]
-category: 文章示例
+category: node
 draft: false
 ---
 

@@ -4,7 +4,7 @@ published: 2026-08-30
 pinned: false
 description: 成长必经之路的开始
 tags: [Markdown, 博客]
-category: 文章示例
+category: blog维护
 draft: false
 ---
 
