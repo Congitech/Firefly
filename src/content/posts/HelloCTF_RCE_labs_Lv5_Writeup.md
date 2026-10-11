@@ -1,10 +1,10 @@
 ---
-title: RCE-labs Level5 wp
+title: RCE-labs Level5 wp 题解：空字符忽略与通配符
 published: 2026-10-07
 pinned: false
-description: 终端特性：空字符忽略与通配符
-tags: [ctf,web]
-category: node
+description: "HelloCTF RCE-labs 靶场 Level 5 通关记录：用空字符忽略与通配符绕过关键字过滤，讲清请求行为什么不能有空格、URL 编码的两层解码，附 payload 推导链与全变体实测。"
+tags: [ctf, web, WriteUp]
+category: web
 draft: false
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: RCE-labs Level3 wp
+title: RCE-labs Level3 wp 题解：命令执行
 published: 2026-10-07
 pinned: false
-description: Level 3：命令执行
-tags: [ctf,web]
-category: node
+description: "HelloCTF RCE-labs 靶场 Level 3 通关记录：围绕 system() 命令执行，讲清代码执行与命令执行的分水岭，附 HackBar / Burp Suite 两套工具解法与读不到 flag 的排查表。"
+tags: [ctf, web, WriteUp]
+category: web
 draft: false
 ---
 

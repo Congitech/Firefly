@@ -1,10 +1,10 @@
 ---
-title: RCE-labs Level4 wp
+title: RCE-labs Level4 wp 题解：SHELL 运算符
 published: 2026-10-07
 pinned: false
-description: 命令执行：SHELL 运算符
-tags: [ctf,web]
-category: node
+description: "HelloCTF RCE-labs 靶场 Level 4 通关记录：对比分号、管道、逻辑与或四种 SHELL 运算符的取舍，重点拆解为什么分号必须写成 %3B——payload 要穿过三层解析，附踩坑记录与同类字符全表。"
+tags: [ctf, web, WriteUp]
+category: web
 draft: false
 ---
 

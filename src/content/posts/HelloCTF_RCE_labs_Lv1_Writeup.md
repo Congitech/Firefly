@@ -1,10 +1,10 @@
 ---
-title: RCE-labs Level1 wp
+title: RCE-labs Level1 wp 题解：一句话木马与代码执行
 published: 2026-10-07
 pinned: false
-description: 第一关 · 一句话木马与代码执行
-tags: [ctf,web]
-category: node
+description: "HelloCTF RCE-labs 靶场第一关通关记录：从 eval() 一句话木马讲清代码执行与命令执行的区别，含完整 payload、Content-Type 要点与同类危险函数全景图。"
+tags: [ctf, web, WriteUp]
+category: web
 draft: false
 ---
 
